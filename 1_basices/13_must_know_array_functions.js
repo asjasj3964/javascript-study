@@ -51,5 +51,5 @@ console.log(inhaStudentsArray.reverse());
 let numbers = [
     1, 4, 2, 6, 1, 8, 3
 ]
-console.log(numbers.sort());
+console.log(numbers.sort((a, b) => {} ));
 console.log(numbers.reverse());
